@@ -1,7 +1,6 @@
 # 🛍️ Product Management App
 
 A **React.js** application that allows users to view, filter, and add products with a clean, minimal, and modern UI.  
-Built with using **React**.
 
 **Live Demo**: https://seller-manager-lwfi.onrender.com/
 
