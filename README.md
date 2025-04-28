@@ -26,9 +26,6 @@ Built with using **React**.
 - npm
 
 ```bash
-node -v
-npm -v
-
 git clone git@github.com:AnuradhaHariharan/seller-manager.git
 cd seller-product-manager
 npm install
