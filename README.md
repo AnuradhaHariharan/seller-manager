@@ -3,7 +3,7 @@
 A **React.js** application that allows users to view, filter, and add products with a clean, minimal, and modern UI.  
 Built with using **React**.
 
-**Live Demo**: [View Project]([(https://seller-manager-lwfi.onrender.com/))
+**Live Demo**: https://seller-manager-lwfi.onrender.com/
 
 ---
 
